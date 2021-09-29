@@ -7,12 +7,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   url: 'https://sagariar.github.io',
-  baseUrl: '/docusauraus-project/',
+  baseUrl: '/docusaurus-project/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'sagariar', // Usually your GitHub org/user name.
-  projectName: 'docusauraus-project', // Usually your repo name.
+  projectName: 'docusaurus-project', // Usually your repo name.
 
   presets: [
     [
